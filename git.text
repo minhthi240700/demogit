@@ -1,0 +1,6 @@
+1. Cài đặt tên dự án
+git config --global user.name 'Thi'
+git config --global user.email 'thi@gmail.com'
+git init
+2. Các lệnh của git
+- commit: 
